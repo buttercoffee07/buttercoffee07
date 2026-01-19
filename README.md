@@ -29,6 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hargreavesc230-stack&layout=compact&hide_border=true" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/hargreavesc230-stack" alt="github contributions" />
+</p>
+
 ---
 
 ## projects
