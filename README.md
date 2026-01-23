@@ -63,9 +63,3 @@
   <img alt="Bun" src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white" />
   <img alt="Luau" src="https://img.shields.io/badge/Luau-00A2FF?logo=roblox&logoColor=white" />
 </p>
-
----
-
-## contact
-
-- https://github.com/hargreavesc230-stack
