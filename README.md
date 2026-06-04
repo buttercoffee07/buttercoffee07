@@ -47,7 +47,7 @@ i do a lot of scripting work: datastore stuff, anti-exploit-ish systems, and mak
 ## tech i touch
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,bun,nodejs,nestjs,prisma,postgres,redis,react,go,rust,cs,elixir,kotlin,lua,swift,docker,git,github,vscode,idea,robloxstudio,docker,ghidra&perline=9" />
+  <img src="https://skillicons.dev/icons?i=ts,js,bun,nodejs,nestjs,prisma,postgres,redis,react,go,rust,cs,elixir,kotlin,lua,swift,docker,git,github,vscode,idea,robloxstudio&perline=9" />
 </p>
 
 ---
