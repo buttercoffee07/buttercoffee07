@@ -58,4 +58,6 @@ i do a lot of scripting work: datastore stuff, anti-exploit-ish systems, and mak
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=buttercoffee07&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f472b6&currStreakLabel=e5e7eb" />
 
+<img src="https://github-readme-stats-taupe-seven-79.vercel.app/api/top-langs/?username=zastlx&theme=midnight-purple&langs_count=6&exclude_repo=nebulet,betastar.js,shell-wasm-node" alt="Top Langs">
+
 </div>
